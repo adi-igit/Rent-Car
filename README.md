@@ -6,7 +6,13 @@ Welcome to Rent-Car, your one-stop car rental solution developed with React.js! 
 
 This is a web application design app.
 
-## 🚀 Getting Started
+## Features
+
+* Navigation
+* Home page
+* Awesome modern minimalist UI
+
+## Getting Started
 
 1. Clone this repository to your local machine:
 
@@ -33,21 +39,21 @@ This is a web application design app.
 
 5. Open your browser and visit http://localhost:3000 to embark on your rental journey with Rent-Car!
 
-## 🚘 Technologies Used
+## Technologies Used
 
 * **React.js**: A versatile JavaScript library for building dynamic user interfaces.
 * **React Router**: For smooth and efficient client-side routing.
 
-## 🛣️ Contributing
+## Feedback and Contributions
 
 We welcome contributions to make Rent-Car even more remarkable! Here's how you can get involved:
 
 * Open an issue for suggestions, bug reports, or new features.
 * Fork the repository and submit a pull request to contribute your enhancements.
 
-## 📜 License
+## License
 Rent-Car is released under the [MIT](https://github.com/adi-igit/Rent-Car/blob/main/LICENSE) License. Embark on this project and transform the way we rent cars!
 
 Get behind the wheel with Rent-Car, an immersive React.js application. Find your ideal rental car, book with ease, and set off on unforgettable journeys.
 
-Enjoy the ride! 🚗✈️
+Enjoy the ride!
